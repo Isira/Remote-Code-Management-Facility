@@ -1,0 +1,163 @@
+﻿  ServiceMessage.cpp
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.h(46): error C2011: 'ServiceMessage' : 'class' type redefinition
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(19): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(20): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(21): error C2079: 'msg' uses undefined class 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(24): error C2228: left of '.addAttribute' must have class/struct/union
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(27): error C2228: left of '.setBody' must have class/struct/union
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(33): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(34): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(35): error C2079: 'msg' uses undefined class 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(38): error C2228: left of '.addAttribute' must have class/struct/union
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(40): error C2228: left of '.setBody' must have class/struct/union
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(46): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(47): error C2270: 'attribute' : modifiers not allowed on nonmember functions
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(49): error C2065: '_attributes' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(50): error C3312: no callable 'begin' function found for type 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(50): error C3312: no callable 'end' function found for type 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(51): error C2065: 'iter' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(51): error C2228: left of '.first' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(53): error C2065: 'iter' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(53): error C2228: left of '.second' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(54): error C2043: illegal break
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(62): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(62): error C2146: syntax error : missing ';' before identifier 'begin'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(64): error C2065: '_attributes' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(64): error C2228: left of '.begin' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(64): warning C4508: 'begin' : function should return a value; 'void' return type assumed
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(69): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(69): error C2146: syntax error : missing ';' before identifier 'end'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(69): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(69): error C2086: 'int iterator' : redefinition
+          c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(62) : see declaration of 'iterator'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(70): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(71): error C2065: '_attributes' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(71): error C2228: left of '.end' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(71): warning C4508: 'end' : function should return a value; 'void' return type assumed
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(76): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(78): error C2065: '_attributes' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(78): error C2228: left of '.begin' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(78): error C3536: 'iter': cannot be used before it is initialized
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(78): error C2228: left of '.end' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(80): error C3536: 'iter': cannot be used before it is initialized
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(80): error C2227: left of '->first' must point to class/struct/union/generic type
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(82): error C2065: '_attributes' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(82): error C2228: left of '.erase' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(82): error C3536: 'iter': cannot be used before it is initialized
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(86): error C2065: '_attributes' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(86): error C2228: left of '.push_back' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(91): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(93): error C2065: '_body' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(98): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(109): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(110): error C2270: 'body' : modifiers not allowed on nonmember functions
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(111): error C2065: '_body' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(115): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(116): error C2270: 'replyMessage' : modifiers not allowed on nonmember functions
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(117): error C2079: 'reply' uses undefined class 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(118): error C2065: '_attributes' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(119): error C3312: no callable 'begin' function found for type 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(119): error C3312: no callable 'end' function found for type 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(120): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(120): error C2228: left of '.first' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(122): error C2228: left of '.addAttribute' must have class/struct/union
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(122): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(122): error C2228: left of '.second' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(124): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(124): error C2228: left of '.first' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(126): error C2228: left of '.addAttribute' must have class/struct/union
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(126): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(126): error C2228: left of '.second' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(128): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(128): error C2228: left of '.first' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(130): error C2228: left of '.addAttribute' must have class/struct/union
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(130): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(130): error C2228: left of '.second' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(132): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(132): error C2228: left of '.first' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(134): error C2228: left of '.addAttribute' must have class/struct/union
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(134): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(134): error C2228: left of '.second' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(137): error C2228: left of '.addAttribute' must have class/struct/union
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(137): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(137): error C2228: left of '.first' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(137): error C2228: left of '.second' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(140): error C2228: left of '.addAttribute' must have class/struct/union
+          type is 'int'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(142): error C2440: 'return' : cannot convert from 'int' to 'ServiceMessage'
+          Source or target has incomplete type
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(145): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(146): error C2270: 'isReply' : modifiers not allowed on nonmember functions
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(148): error C2065: '_attributes' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(149): error C3312: no callable 'begin' function found for type 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(149): error C3312: no callable 'end' function found for type 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(150): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(150): error C2228: left of '.first' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(153): error C2043: illegal break
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(164): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(166): error C2065: 'it' : undeclared identifier
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(166): error C2228: left of '.first' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(166): error C2228: left of '.second' must have class/struct/union
+          type is 'unknown-type'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(169): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(169): error C2228: left of '.body' must have class/struct/union
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(186): error C2079: 'msg' uses undefined class 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(186): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(186): error C2660: 'construct' : function does not take 1 arguments
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(200): error C2079: 'msg' uses undefined class 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(200): error C2027: use of undefined type 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+          c:\users\isira\documents\project_4\cppcli-wpf-app\mockchannel\mockchannel.h(21) : see declaration of 'ServiceMessage'
+c:\users\isira\documents\project_4\cppcli-wpf-app\commservice\servicemessage.cpp(200): fatal error C1903: unable to recover from previous error(s); stopping compilation

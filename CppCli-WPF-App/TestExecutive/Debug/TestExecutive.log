@@ -1,0 +1,19 @@
+﻿  TestExecutive.cpp
+  XmlElementFactory.cpp
+  XmlElement.cpp
+  AbstractXmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  XmlDocument.cpp
+  Sockets.cpp
+  Sender.cpp
+  Receiver.cpp
+  Peer.cpp
+  FileSystem.cpp
+  FileManager.cpp
+  DocumentBuilder.cpp
+  Display.cpp
+  DataStore.cpp
+  Cataloger.cpp
+  Generating Code...
+  TestExecutive.vcxproj -> C:\Users\isira\Documents\Project_4\CppCli-WPF-App\Debug\TestExecutive.exe

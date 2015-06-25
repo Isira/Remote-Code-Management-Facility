@@ -1,0 +1,9 @@
+﻿  Sender.cpp
+  Receiver.cpp
+  MockChannel.cpp
+  Sockets.cpp
+  FileSystem.cpp
+  Display.cpp
+  Generating Code...
+     Creating library C:\Users\isira\Desktop\Isira_Samarasekera_Project_4\Isira_Samarasekera_Project_4\CppCli-WPF-App\Debug\MockChannel.lib and object C:\Users\isira\Desktop\Isira_Samarasekera_Project_4\Isira_Samarasekera_Project_4\CppCli-WPF-App\Debug\MockChannel.exp
+  MockChannel.vcxproj -> C:\Users\isira\Desktop\Isira_Samarasekera_Project_4\Isira_Samarasekera_Project_4\CppCli-WPF-App\Debug\MockChannel.dll

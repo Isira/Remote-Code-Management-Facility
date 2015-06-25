@@ -1,0 +1,19 @@
+﻿  Server.cpp
+  XmlElementFactory.cpp
+  XmlElement.cpp
+  AbstractXmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  XmlDocument.cpp
+  Sockets.cpp
+  Sender.cpp
+  Receiver.cpp
+  FileSystem.cpp
+  FileManager.cpp
+  DocumentBuilder.cpp
+  Display.cpp
+  DataStore.cpp
+  Cataloger.cpp
+  Generating Code...
+     Creating library C:\Users\isira\Desktop\Isira_Samarasekera_Project_4\Isira_Samarasekera_Project_4\CppCli-WPF-App\Debug\Server.lib and object C:\Users\isira\Desktop\Isira_Samarasekera_Project_4\Isira_Samarasekera_Project_4\CppCli-WPF-App\Debug\Server.exp
+  Server.vcxproj -> C:\Users\isira\Desktop\Isira_Samarasekera_Project_4\Isira_Samarasekera_Project_4\CppCli-WPF-App\Debug\Server.exe
